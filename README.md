@@ -23,11 +23,11 @@ Desde os primeiros dias colaborando com instituições governamentais de grande 
 
 **Inteligência Artificial Aplicada à Gestão e Transformação Digital**
 
-Experiência na aplicação de soluções de Inteligência Artificial para automação de processos, análise de dados e apoio à tomada de decisão.
-Atuação com IA generativa para criação de conteúdos, organização de informações, otimização de tarefas e aumento de produtividade.
-Capacidade de identificar oportunidades de uso de IA em processos de negócio, promovendo inovação, eficiência operacional e melhoria contínua.
-Experiente em integrar tecnologia, dados e gestão, utilizando recursos de IA para modernização de serviços e geração de valor para clientes internos e externos.
-Especializado em apoiar iniciativas de transformação digital com foco em escalabilidade, eficiência e uso estratégico da informação.
+Experiência na aplicação de soluções de Inteligência Artificial para automação de processos, análise de dados e apoio à tomada de decisão.<br>
+Atuação com IA generativa para criação de conteúdos, organização de informações, otimização de tarefas e aumento de produtividade.<br>
+Capacidade de identificar oportunidades de uso de IA em processos de negócio, promovendo inovação, eficiência operacional e melhoria contínua.<br>
+Experiente em integrar tecnologia, dados e gestão, utilizando recursos de IA para modernização de serviços e geração de valor para clientes internos e externos.<br>
+Especializado em apoiar iniciativas de transformação digital com foco em escalabilidade, eficiência e uso estratégico da informação.<br>
 
 <img align="center" alt="ChatGPT" height="30" width="40"
 src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg"/>
