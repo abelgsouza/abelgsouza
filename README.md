@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/abel-gon%C3%A7alves-de-souza-b6510823/">
-  <img height="180em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png"/>
-  <img height="180em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png"/>
+  <img height="20em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png"/>
+  <img height="20em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png"/>
 </div>
 
 📝 **Segue abaixo uma pequena apresentação:**
