@@ -29,6 +29,16 @@ Capacidade de identificar oportunidades de uso de IA em processos de negócio, p
 Experiente em integrar tecnologia, dados e gestão, utilizando recursos de IA para modernização de serviços e geração de valor para clientes internos e externos.
 Especializado em apoiar iniciativas de transformação digital com foco em escalabilidade, eficiência e uso estratégico da informação.
 
+<img align="center" alt="ChatGPT" height="30" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg"/>
+<img align="center" alt="Gemini" height="30" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg"/>
+<img align="center" alt="Claude" height="30" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"/>
+<img align="center" alt="Grok" height="30" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_version_Grok_AI_%28xAI%29_2025.png"/>
+<img align="center" alt="Manus" height="30" width="40"
+src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Manus_AI.png"/>
 
 **Planejamento Estratégico em TI:**
 
