@@ -49,7 +49,7 @@ src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-medi
 <img align="center" alt="ITIL" height="30" width="40"
 src="https://www.etc.at/wp-content/uploads/2022/09/icon_itil.svg"/>
 <img align="center" alt="PMBOK" height="30" width="40"
-src="https://thedigitalprojectmanager.com/wp-content/uploads/2024/05/PDU-Badge.svg"/>
+src="https://upload.wikimedia.org/wikipedia/commons/f/fb/0811_PMI_logo.gif"/>
 <img align="center" alt="SFPC" height="30" width="40"
 src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/>
 
