@@ -10,7 +10,7 @@
 
 **Formação Acadêmica**
 
-- [ ] Faculdade Líbano - Pós-Graduação, em Big Data e Ciência de Dados | *Cursando*
+- [x] Faculdade Líbano - Pós-Graduação, em Big Data e Ciência de Dados | *Completo* *04/2025*
 - [x] Pontifícia Universidade Católica de Minas Gerais, PUCMinas - Pós-Graduação, em Gerenciamento de Projetos | *Completo* *05/2023* 
 - [x] Faculdade SENAC DF, FACSENAC - Tecnólogo, em Gestão da Tecnologia da Informação | **Superior Completo* *12/2011**
 
@@ -21,18 +21,13 @@ Desde os primeiros dias colaborando com instituições governamentais de grande 
 
 **Habilidades e Experiências em Destaque**
 
-**Analista de Infraestrutura de TI (MCSE):**
+**Inteligência Artificial Aplicada à Gestão e Transformação Digital**
 
-Microsoft Certified Systems Engineer com conhecimento avançado em administração de sistemas, redes e infraestrutura.<br>
-Experiência em suporte a clientes externos, administração de redes e execução de projetos de migração em diversos estados.<br>
-Responsável por migrações de serviços (DNS, WINS, DHCP, AD) em diferentes estados brasileiros.<br>
-
-<img align="center" alt="Microsoft" height="30" width="40"
-src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-icon.svg"/>
-<img align="center" alt="Microsoft" height="30" width="40"
-src="https://www.vumetric.com/wp-content/uploads/MSCE-certification.svg"/>
-<img align="center" alt="Microsoft" height="30" width="40"
-src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"/>
+Experiência na aplicação de soluções de Inteligência Artificial para automação de processos, análise de dados e apoio à tomada de decisão.
+Atuação com IA generativa para criação de conteúdos, organização de informações, otimização de tarefas e aumento de produtividade.
+Capacidade de identificar oportunidades de uso de IA em processos de negócio, promovendo inovação, eficiência operacional e melhoria contínua.
+Experiente em integrar tecnologia, dados e gestão, utilizando recursos de IA para modernização de serviços e geração de valor para clientes internos e externos.
+Especializado em apoiar iniciativas de transformação digital com foco em escalabilidade, eficiência e uso estratégico da informação.
 
 
 **Planejamento Estratégico em TI:**
@@ -53,6 +48,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/f/fb/0811_PMI_logo.gif"/>
 <img align="center" alt="SFPC" height="30" width="40"
 src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/>
 
+**Analista de Infraestrutura de TI (MCSE):**
+
+Microsoft Certified Systems Engineer com conhecimento avançado em administração de sistemas, redes e infraestrutura.<br>
+Experiência em suporte a clientes externos, administração de redes e execução de projetos de migração em diversos estados.<br>
+Responsável por migrações de serviços (DNS, WINS, DHCP, AD) em diferentes estados brasileiros.<br>
+
+<img align="center" alt="Microsoft" height="30" width="40"
+src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-icon.svg"/>
+<img align="center" alt="Microsoft" height="30" width="40"
+src="https://www.vumetric.com/wp-content/uploads/MSCE-certification.svg"/>
+<img align="center" alt="Microsoft" height="30" width="40"
+src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"/>
 
 **Administração de Sistemas e Redes:**
 
@@ -76,7 +83,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <img align="center" alt="NoCode" height="30" width="40"
 src="https://www.svgrepo.com/download/431534/code.svg"/>
 
-
 **Bancos de Dados:**
 
 Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL (ETL, PLSQL).<br>
@@ -85,8 +91,6 @@ Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
 <img align="center" alt="MySQL" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-
-
 
 **Comunicação, Colaboração e edição:**
 
