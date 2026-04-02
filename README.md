@@ -90,8 +90,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="VSCode" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="center" alt="NoCode" height="30" width="40"
-src="https://www.svgrepo.com/download/431534/code.svg"/>
 
 **Bancos de Dados:**
 
